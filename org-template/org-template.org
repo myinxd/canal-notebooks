@@ -62,7 +62,7 @@ $ brew install emacs
 除此之外，spacemacs官方也提供了安装教程，可以参考[[https://github.com/syl20bnr/spacemacs#macos][这里]]。
 
 * org-mode的基本语法
-介绍完spacemacs的安装，便可以开始记笔记了，这里采用的是[[https://orgmode.org/][org-mode]]，org除了提供将文本导出为html和pdf格式外，还可以制作TODO list和日历等，非常适合日常的工作。对于工科孩子，笔记或者小论文的内容主要包含文字、公式、图表、链接和参考文献等，简单举例说明一下他们的语法，详细内容可以参考[[https://www.cnblogs.com/Open_Source/archive/2011/07/17/2108747.html][这篇博客]]，翻译自org的官方文档，非常详细。我在[[][这里]]提供了一个与本文内容相同的org笔记以及导出的pdf，感兴趣的话可以作为参考模板。
+介绍完spacemacs的安装，便可以开始记笔记了，这里采用的是[[https://orgmode.org/][org-mode]]，org除了提供将文本导出为html和pdf格式外，还可以制作TODO list和日历等，非常适合日常的工作。对于工科孩子，笔记或者小论文的内容主要包含文字、公式、图表、链接和参考文献等，简单举例说明一下他们的语法，详细内容可以参考[[https://www.cnblogs.com/Open_Source/archive/2011/07/17/2108747.html][这篇博客]]，翻译自org的官方文档，非常详细。我在[[https://github.com/myinxd/canal-notebooks/blob/master/org-template/org-template.org][这里]]提供了一个与本文内容相同的org笔记以及导出的pdf，感兴趣的话可以作为参考模板。
 
 \textbf{注意：如果要导出pdf，需要预先安装tex套件，建议Texlive}，在Ubuntu下可以之间用\texttt{sudo apt install texlive-2016}实现。
 
